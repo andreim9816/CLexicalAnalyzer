@@ -1,0 +1,2 @@
+Tokenul x este de tip identificator
+eroare operator! la linia=1 coloana=4
