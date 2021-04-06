@@ -1,4 +1,8 @@
-==10.5e+2e12.e5<<=e*/e12.eef)++a+++e+5ef--.ef)
-}" kjhg kjh kj h/*
-
-*/"
+/* this comment is not seen */
+int main() {
+    int x = 3;
+    x++;
+    x--;
+    x =x+ 1;
+    return 0;
+}
